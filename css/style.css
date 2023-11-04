@@ -558,7 +558,7 @@ p {
 .close-modal-btn:hover .modal-close-button-icon,
 .close-modal-btn:focus .modal-close-button-icon {
   fill: #ffffff;
-
+}
 
 .modal-close-button-icon {
   fill: #2e2f42;
