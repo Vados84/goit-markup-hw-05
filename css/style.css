@@ -555,10 +555,10 @@ p {
   border: none;
 }
 
-.modal-close-button-icon:hover,
-.modal-close-button-icon:focus {
+.close-modal-btn:hover .modal-close-button-icon,
+.close-modal-btn:focus .modal-close-button-icon {
   fill: #ffffff;
-}
+
 
 .modal-close-button-icon {
   fill: #2e2f42;
@@ -621,7 +621,7 @@ p {
 }
 
 .reviwe-form-field-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .review-form-input-wrapper {
