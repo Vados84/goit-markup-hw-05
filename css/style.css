@@ -630,7 +630,6 @@ p {
 
 .review-form-input-wrapper {
   position: relative;
-  margin-bottom: 8px;
 }
 
 .reviwe-form-field-icon {
@@ -792,7 +791,6 @@ p {
   border: none;
   border-radius: 4px;
   background-color: #4d5ae5;
-  margin-left: 24px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   padding: 8px 24px;
   color: #ffffff;
